@@ -887,7 +887,8 @@ RECURSIVE              = YES
 # run.
 
 EXCLUDE                = $(TRAVIS_BUILD_DIR)/src/Libraries/ \
-						 $(TRAVIS_BUILD_DIR)/src/OpenCVProcessing/ceSerial.h
+						 $(TRAVIS_BUILD_DIR)/src/OpenCVProcessing/ceSerial.h \
+						 $(TRAVIS_BUILD_DIR)/src/OpenCVProcessing/ceSerial.cpp
 
 # The EXCLUDE_SYMLINKS tag can be used to select whether or not files or
 # directories that are symbolic links (a Unix file system feature) are excluded
