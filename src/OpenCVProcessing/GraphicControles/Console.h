@@ -69,7 +69,6 @@ public:
 
 	/** @brief Draws the serial communication messages to the image
 	*	@details Loops over al messages and draws them with a height offset of 5 pixels between each message.
-	*	@param serialCom: all serial communication messages
 	*	@return the image matrix */
 	cv::Mat draw();
 };
