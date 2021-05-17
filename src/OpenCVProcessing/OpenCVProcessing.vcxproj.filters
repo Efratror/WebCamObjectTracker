@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Pipe Line Actions">
+      <UniqueIdentifier>{b824e521-09b4-469e-a1ee-30542ab3e3af}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Graphic Controles">
+      <UniqueIdentifier>{03bc87c6-5702-4a78-81a2-55283a4a800b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Pipeline Actions">
+      <UniqueIdentifier>{9c878b71-5d97-42bf-be9d-7fb342b92aae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Graphic Controles">
+      <UniqueIdentifier>{7acff5ef-03af-4f32-bc56-8cad82aaa8ce}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="SerialCom.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="ceSerial.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="PipeLineActions\Blur.cpp">
+      <Filter>Source Files\Pipe Line Actions</Filter>
+    </ClCompile>
+    <ClCompile Include="PipeLineActions\Contour.cpp">
+      <Filter>Source Files\Pipe Line Actions</Filter>
+    </ClCompile>
+    <ClCompile Include="PipeLineActions\ConvertColorSpace.cpp">
+      <Filter>Source Files\Pipe Line Actions</Filter>
+    </ClCompile>
+    <ClCompile Include="PipeLineActions\Mask.cpp">
+      <Filter>Source Files\Pipe Line Actions</Filter>
+    </ClCompile>
+    <ClCompile Include="PipeLineActions\Capture.cpp">
+      <Filter>Source Files\Pipe Line Actions</Filter>
+    </ClCompile>
+    <ClCompile Include="PipeLineActions\Moment.cpp">
+      <Filter>Source Files\Pipe Line Actions</Filter>
+    </ClCompile>
+    <ClCompile Include="PipeLineActions\PipeLineAction.cpp">
+      <Filter>Source Files\Pipe Line Actions</Filter>
+    </ClCompile>
+    <ClCompile Include="GraphicControles\Button.cpp">
+      <Filter>Source Files\Graphic Controles</Filter>
+    </ClCompile>
+    <ClCompile Include="GraphicControles\Console.cpp">
+      <Filter>Source Files\Graphic Controles</Filter>
+    </ClCompile>
+    <ClCompile Include="GraphicControles\GUI.cpp">
+      <Filter>Source Files\Graphic Controles</Filter>
+    </ClCompile>
+    <ClCompile Include="GraphicControles\Menu.cpp">
+      <Filter>Source Files\Graphic Controles</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="SerialCom.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ceSerial.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PipeLineActions\Blur.h">
+      <Filter>Header Files\Pipeline Actions</Filter>
+    </ClInclude>
+    <ClInclude Include="PipeLineActions\Contour.h">
+      <Filter>Header Files\Pipeline Actions</Filter>
+    </ClInclude>
+    <ClInclude Include="PipeLineActions\ConvertColorSpace.h">
+      <Filter>Header Files\Pipeline Actions</Filter>
+    </ClInclude>
+    <ClInclude Include="PipeLineActions\Mask.h">
+      <Filter>Header Files\Pipeline Actions</Filter>
+    </ClInclude>
+    <ClInclude Include="PipeLineActions\Capture.h">
+      <Filter>Header Files\Pipeline Actions</Filter>
+    </ClInclude>
+    <ClInclude Include="PipeLineActions\Moment.h">
+      <Filter>Header Files\Pipeline Actions</Filter>
+    </ClInclude>
+    <ClInclude Include="PipeLineActions\PipeLineAction.h">
+      <Filter>Header Files\Pipeline Actions</Filter>
+    </ClInclude>
+    <ClInclude Include="GraphicControles\Button.h">
+      <Filter>Header Files\Graphic Controles</Filter>
+    </ClInclude>
+    <ClInclude Include="GraphicControles\Console.h">
+      <Filter>Header Files\Graphic Controles</Filter>
+    </ClInclude>
+    <ClInclude Include="GraphicControles\GUI.h">
+      <Filter>Header Files\Graphic Controles</Filter>
+    </ClInclude>
+    <ClInclude Include="GraphicControles\Menu.h">
+      <Filter>Header Files\Graphic Controles</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
