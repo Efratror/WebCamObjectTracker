@@ -1,0 +1,6 @@
+<map id="PanTiltController::PanTiltController" name="PanTiltController::PanTiltController">
+<area shape="rect" id="node2" href="$class_pan_tilt_controller.html#aadda5450b8681c8fc4b1aa627686ab78" title="attaches the pin number to the servo&#39;s and homes the servo&#39;s " alt="" coords="187,5,320,47"/>
+<area shape="rect" id="node3" href="$class_pan_tilt_controller.html#a980df672a9acb8e59656996d293972db" title="Homes the pan and tilt motors. " alt="" coords="368,13,539,39"/>
+<area shape="rect" id="node4" href="$class_pan_tilt_controller.html#a5a95d7d7997788f3117cdc50b44693dd" title="Sets the position of the pan and tilt motor. " alt="" coords="587,5,720,47"/>
+<area shape="rect" id="node5" href="$class_pan_tilt_controller.html#af1fe53e54c0254f05377bf9d2b394af7" title="Limits an angle between 0° and 180° " alt="" coords="768,5,901,47"/>
+</map>

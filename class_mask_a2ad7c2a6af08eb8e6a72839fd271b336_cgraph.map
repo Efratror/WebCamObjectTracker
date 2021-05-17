@@ -1,0 +1,8 @@
+<map id="Mask::showWindow" name="Mask::showWindow">
+<area shape="rect" id="node2" href="$class_mask.html#a418768a985b64d7d79ffe206c8e3152b" title="Handles the change trackbar event for the low hue trackbar. " alt="" coords="199,5,397,32"/>
+<area shape="rect" id="node3" href="$class_mask.html#a031f51174e376d4071375baf7129fad2" title="Handles the change trackbar event for the high hue trackbar. " alt="" coords="196,56,400,83"/>
+<area shape="rect" id="node4" href="$class_mask.html#acf24eedd986e3f2ce31b700412114097" title="Handles the change trackbar event for the low saturation trackbar. " alt="" coords="199,107,397,133"/>
+<area shape="rect" id="node5" href="$class_mask.html#a9051c37f02e41e42699fdcd67e55f027" title="Handles the change trackbar event for the high saturation trackbar. " alt="" coords="197,157,399,184"/>
+<area shape="rect" id="node6" href="$class_mask.html#a2bcbab640374e6a719ed4584a4845dfb" title="Handles the change trackbar event for the low value trackbar. " alt="" coords="199,208,397,235"/>
+<area shape="rect" id="node7" href="$class_mask.html#a160c56278711e34a1accfedbc875ef41" title="Handles the change trackbar event for the high value trackbar. " alt="" coords="197,259,399,285"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="PanTiltController::home" name="PanTiltController::home">
+<area shape="rect" id="node2" href="$class_pan_tilt_controller.html#a5a95d7d7997788f3117cdc50b44693dd" title="Sets the position of the pan and tilt motor. " alt="" coords="224,5,357,47"/>
+<area shape="rect" id="node3" href="$class_pan_tilt_controller.html#af1fe53e54c0254f05377bf9d2b394af7" title="Limits an angle between 0° and 180° " alt="" coords="405,5,539,47"/>
+</map>
