@@ -1,8 +1,0 @@
-<map id="PanTiltController::limit" name="PanTiltController::limit">
-<area shape="rect" id="node2" href="$class_pan_tilt_controller.html#a5a95d7d7997788f3117cdc50b44693dd" title="Sets the position of the pan and tilt motor. " alt="" coords="187,35,320,76"/>
-<area shape="rect" id="node3" href="$class_pan_tilt_controller.html#ab7ca3ce4412aa3c2fc48fd21de895d49" title="Sets the position of the pan and tilt motor. " alt="" coords="387,5,520,47"/>
-<area shape="rect" id="node4" href="$class_pan_tilt_controller.html#a980df672a9acb8e59656996d293972db" title="Homes the pan and tilt motors. " alt="" coords="368,71,539,98"/>
-<area shape="rect" id="node5" href="$class_pan_tilt_controller.html#aadda5450b8681c8fc4b1aa627686ab78" title="attaches the pin number to the servo&#39;s and homes the servo&#39;s " alt="" coords="587,64,720,105"/>
-<area shape="rect" id="node6" href="$class_pan_tilt_controller.html#a9bf2969c6d318aab4c3508c60a87f8d3" title="constructor of the class " alt="" coords="768,64,901,105"/>
-<area shape="rect" id="node7" href="$class_pan_tilt_controller.html#ab6b65c6e12ebbd0ccf007f6c457e5f1a" title="Creates a object if there isn&#39;t one already. " alt="" coords="949,64,1083,105"/>
-</map>

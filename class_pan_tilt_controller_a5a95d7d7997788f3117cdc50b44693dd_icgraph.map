@@ -1,7 +1,0 @@
-<map id="PanTiltController::setPosition" name="PanTiltController::setPosition">
-<area shape="rect" id="node2" href="$class_pan_tilt_controller.html#ab7ca3ce4412aa3c2fc48fd21de895d49" title="Sets the position of the pan and tilt motor. " alt="" coords="205,5,339,47"/>
-<area shape="rect" id="node3" href="$class_pan_tilt_controller.html#a980df672a9acb8e59656996d293972db" title="Homes the pan and tilt motors. " alt="" coords="187,71,357,98"/>
-<area shape="rect" id="node4" href="$class_pan_tilt_controller.html#aadda5450b8681c8fc4b1aa627686ab78" title="attaches the pin number to the servo&#39;s and homes the servo&#39;s " alt="" coords="405,64,539,105"/>
-<area shape="rect" id="node5" href="$class_pan_tilt_controller.html#a9bf2969c6d318aab4c3508c60a87f8d3" title="constructor of the class " alt="" coords="587,64,720,105"/>
-<area shape="rect" id="node6" href="$class_pan_tilt_controller.html#ab6b65c6e12ebbd0ccf007f6c457e5f1a" title="Creates a object if there isn&#39;t one already. " alt="" coords="768,64,901,105"/>
-</map>

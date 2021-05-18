@@ -1,5 +1,0 @@
-<map id="SerialCom::initialize" name="SerialCom::initialize">
-<area shape="rect" id="node2" href="$class_serial_com.html#acf9ed461d5505333d9322d743facc7f8" title="Constructor. " alt="" coords="200,31,363,57"/>
-<area shape="rect" id="node3" href="$class_serial_com.html#ab4694d10387475e78b52a33157f5934e" title="shows a error message on the console " alt="" coords="418,5,590,32"/>
-<area shape="rect" id="node4" href="$class_serial_com.html#af9967e8dc494640b943b3035259279ab" title="shows a succes message on the console " alt="" coords="411,56,597,83"/>
-</map>

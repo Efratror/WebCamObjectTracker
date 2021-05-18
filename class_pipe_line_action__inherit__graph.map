@@ -1,7 +1,0 @@
-<map id="PipeLineAction" name="PipeLineAction">
-<area shape="rect" id="node2" href="$class_blur.html" title="Child&#45;classe, implements OpenCV&#39;s GaussianBlur. " alt="" coords="5,336,132,501"/>
-<area shape="rect" id="node3" href="$class_contour.html" title="Child&#45;classe, implements OpenCV&#39;s contour finding. " alt="" coords="156,307,283,531"/>
-<area shape="rect" id="node4" href="$class_convert_color_space.html" title="Child&#45;classe, converts from BGR to HSV color space. " alt="" coords="307,365,478,472"/>
-<area shape="rect" id="node5" href="$class_mask.html" title="Child&#45;classe, applies a mask to the input matrix. " alt="" coords="503,248,685,589"/>
-<area shape="rect" id="node6" href="$class_moment.html" title="Child&#45;classe, implements OpenCV&#39;s center of mass finding. " alt="" coords="709,329,868,509"/>
-</map>

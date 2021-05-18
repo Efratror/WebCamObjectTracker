@@ -1,5 +1,0 @@
-<map id="PanTiltController::home" name="PanTiltController::home">
-<area shape="rect" id="node2" href="$class_pan_tilt_controller.html#aadda5450b8681c8fc4b1aa627686ab78" title="attaches the pin number to the servo&#39;s and homes the servo&#39;s " alt="" coords="224,5,357,47"/>
-<area shape="rect" id="node3" href="$class_pan_tilt_controller.html#a9bf2969c6d318aab4c3508c60a87f8d3" title="constructor of the class " alt="" coords="405,5,539,47"/>
-<area shape="rect" id="node4" href="$class_pan_tilt_controller.html#ab6b65c6e12ebbd0ccf007f6c457e5f1a" title="Creates a object if there isn&#39;t one already. " alt="" coords="587,5,720,47"/>
-</map>
