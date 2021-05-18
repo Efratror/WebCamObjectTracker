@@ -116,7 +116,7 @@ Private Member Functions</h2></td></tr>
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
 <tr class="memitem:aa96d106471f7917bcc4be5814358feca"><td class="memItemLeft" align="right" valign="top"><a id="aa96d106471f7917bcc4be5814358feca"></a>
-<a class="el" href="classce_1_1ceSerial.html">ceSerial</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSerialCom.html#aa96d106471f7917bcc4be5814358feca">serial</a></td></tr>
+ceSerial&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classSerialCom.html#aa96d106471f7917bcc4be5814358feca">serial</a></td></tr>
 <tr class="memdesc:aa96d106471f7917bcc4be5814358feca"><td class="mdescLeft">&#160;</td><td class="mdescRight">Object which holds the ceSerial communication class. <br /></td></tr>
 <tr class="separator:aa96d106471f7917bcc4be5814358feca"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af38e6aeba2a46c79131fef16f58cd6ea"><td class="memItemLeft" align="right" valign="top"><a id="af38e6aeba2a46c79131fef16f58cd6ea"></a>
@@ -207,7 +207,7 @@ static <a class="el" href="classSerialCom.html">SerialCom</a> *&#160;</td><td cl
 </dl>
 <div class="fragment"><div class="line"><a name="l00014"></a><span class="lineno">   14</span>&#160;                                                                                                   {</div>
 <div class="line"><a name="l00015"></a><span class="lineno">   15</span>&#160;    <span class="keywordtype">string</span> port = <span class="stringliteral">&quot;\\\\.\\&quot;</span>+portName;</div>
-<div class="line"><a name="l00016"></a><span class="lineno">   16</span>&#160;    <a class="code" href="classSerialCom.html#aa96d106471f7917bcc4be5814358feca">serial</a> = <a class="code" href="classce_1_1ceSerial.html">ceSerial</a>(port, baudeRate, dataSize, parityType, nStopBits);</div>
+<div class="line"><a name="l00016"></a><span class="lineno">   16</span>&#160;    <a class="code" href="classSerialCom.html#aa96d106471f7917bcc4be5814358feca">serial</a> = ceSerial(port, baudeRate, dataSize, parityType, nStopBits);</div>
 <div class="line"><a name="l00017"></a><span class="lineno">   17</span>&#160; </div>
 <div class="line"><a name="l00018"></a><span class="lineno">   18</span>&#160;    <span class="keywordtype">int</span> opend = <a class="code" href="classSerialCom.html#aa96d106471f7917bcc4be5814358feca">serial</a>.Open();</div>
 <div class="line"><a name="l00019"></a><span class="lineno">   19</span>&#160;    <span class="keywordflow">switch</span> (opend)</div>
@@ -231,7 +231,6 @@ static <a class="el" href="classSerialCom.html">SerialCom</a> *&#160;</td><td cl
 <div class="ttc" id="aclassSerialCom_html_aa96d106471f7917bcc4be5814358feca"><div class="ttname"><a href="classSerialCom.html#aa96d106471f7917bcc4be5814358feca">SerialCom::serial</a></div><div class="ttdeci">ceSerial serial</div><div class="ttdoc">Object which holds the ceSerial communication class.</div><div class="ttdef"><b>Definition:</b> SerialCom.h:27</div></div>
 <div class="ttc" id="aclassSerialCom_html_ab4694d10387475e78b52a33157f5934e"><div class="ttname"><a href="classSerialCom.html#ab4694d10387475e78b52a33157f5934e">SerialCom::publishError</a></div><div class="ttdeci">void publishError(string message)</div><div class="ttdoc">shows a error message on the console</div><div class="ttdef"><b>Definition:</b> SerialCom.cpp:38</div></div>
 <div class="ttc" id="aclassSerialCom_html_af9967e8dc494640b943b3035259279ab"><div class="ttname"><a href="classSerialCom.html#af9967e8dc494640b943b3035259279ab">SerialCom::publishSucces</a></div><div class="ttdeci">void publishSucces(string message)</div><div class="ttdoc">shows a succes message on the console</div><div class="ttdef"><b>Definition:</b> SerialCom.cpp:45</div></div>
-<div class="ttc" id="aclassce_1_1ceSerial_html"><div class="ttname"><a href="classce_1_1ceSerial.html">ce::ceSerial</a></div><div class="ttdef"><b>Definition:</b> ceSerial.h:29</div></div>
 </div><!-- fragment --><div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
