@@ -8,8 +8,5 @@ var searchData=
   ['apiid_5',['apiId',['../classCapture.html#a1a04960c4a8f11ece3c92b5f19c689e1',1,'Capture']]],
   ['arduinocommand_6',['arduinoCommand',['../group__main.html#gaeb04dcc496f0b23d2bbeeba9ff93a5d0',1,'Main.cpp']]],
   ['area_7',['area',['../classContour.html#a30d571610d0ae2002fb195a2bd9557bc',1,'Contour::area()'],['../classMoment.html#a4ab0c9317ff036d8276334de59d887be',1,'Moment::area()']]],
-  ['areamax_8',['areaMax',['../classContour.html#ad9f62471dbfd4cf0ed221d9f1e8fa3c5',1,'Contour::areaMax()'],['../classMoment.html#ae4c59554b0e3936d5e2099cd2462fef9',1,'Moment::areaMax()']]],
-  ['attach_9',['attach',['../classServo.html#ae610bc76e895bd05fdc3618e33b90012',1,'Servo']]],
-  ['attached_10',['attached',['../classServo.html#a243c190018cc807116ac4ca2c9b0f66e',1,'Servo']]],
-  ['attachedpin_11',['attachedPin',['../classServo.html#a328ef929f144308a30476c587d71e9fc',1,'Servo']]]
+  ['areamax_8',['areaMax',['../classContour.html#ad9f62471dbfd4cf0ed221d9f1e8fa3c5',1,'Contour::areaMax()'],['../classMoment.html#ae4c59554b0e3936d5e2099cd2462fef9',1,'Moment::areaMax()']]]
 ];
