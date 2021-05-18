@@ -1,0 +1,8 @@
+<map id="PipeLineAction" name="PipeLineAction">
+<area shape="rect" id="node1" title="Base&#45;class for all OpenCV pipeline actions." alt="" coords="303,5,432,200"/>
+<area shape="rect" id="node2" href="$classBlur.html" title="Child&#45;classe, implements OpenCV&#39;s GaussianBlur." alt="" coords="5,336,124,501"/>
+<area shape="rect" id="node3" href="$classContour.html" title="Child&#45;classe, implements OpenCV&#39;s contour finding." alt="" coords="148,307,267,531"/>
+<area shape="rect" id="node4" href="$classConvertColorSpace.html" title="Child&#45;classe, converts from BGR to HSV color space." alt="" coords="291,365,444,472"/>
+<area shape="rect" id="node5" href="$classMask.html" title="Child&#45;classe, applies a mask to the input matrix." alt="" coords="468,248,640,589"/>
+<area shape="rect" id="node6" href="$classMoment.html" title="Child&#45;classe, implements OpenCV&#39;s center of mass finding." alt="" coords="664,329,807,509"/>
+</map>

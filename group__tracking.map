@@ -1,0 +1,6 @@
+<map id="The Arduino Uno tracking module" name="The Arduino Uno tracking module">
+<area shape="rect" id="node1" title="This is the group contains arduino software." alt="" coords="228,23,395,63"/>
+<area shape="rect" id="node3" href="$group__mainUno.html" title="The main entry point for the openCV processing console application." alt="" coords="443,5,545,31"/>
+<area shape="rect" id="node4" href="$group__classes.html" title="all classes used" alt="" coords="459,55,529,80"/>
+<area shape="rect" id="node2" href="$group__WCT.html" title="using Arduino Uno and OpenCV" alt="" coords="5,31,180,56"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="ConvertColorSpace" name="ConvertColorSpace">
+<area shape="rect" id="node1" title="Child&#45;classe, converts from BGR to HSV color space." alt="" coords="5,248,159,355"/>
+<area shape="rect" id="node2" href="$classPipeLineAction.html" title="Base&#45;class for all OpenCV pipeline actions." alt="" coords="17,5,147,200"/>
+</map>

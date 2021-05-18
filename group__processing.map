@@ -1,0 +1,8 @@
+<map id="The OpenCV proccesing module" name="The OpenCV proccesing module">
+<area shape="rect" id="node1" href="$group__WCT.html" title="using Arduino Uno and OpenCV" alt="" coords="5,80,180,105"/>
+<area shape="rect" id="node4" title="This is the group containing als the image processing parts." alt="" coords="228,73,391,113"/>
+<area shape="rect" id="node2" href="$group__pipeLine.html" title="all classes used for the OpenCV pipeLine" alt="" coords="452,5,573,31"/>
+<area shape="rect" id="node3" href="$group__graphic.html" title="all classes used for the graphic user interface" alt="" coords="465,55,560,80"/>
+<area shape="rect" id="node5" href="$group__serial.html" title="Serial communication with an Arduino Uno." alt="" coords="439,104,587,129"/>
+<area shape="rect" id="node6" href="$group__main.html" title="This group is the main entry point for the openCV processing console application." alt="" coords="461,153,564,179"/>
+</map>

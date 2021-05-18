@@ -1,0 +1,6 @@
+<map id="SerialCom::initialize" name="SerialCom::initialize">
+<area shape="rect" id="node1" title="Creates a object if there isn&#39;t one already." alt="" coords="5,31,140,57"/>
+<area shape="rect" id="node2" href="$classSerialCom.html#acf9ed461d5505333d9322d743facc7f8" title="Constructor." alt="" coords="188,31,336,57"/>
+<area shape="rect" id="node3" href="$classSerialCom.html#ab4694d10387475e78b52a33157f5934e" title="shows a error message on the console" alt="" coords="393,5,549,32"/>
+<area shape="rect" id="node4" href="$classSerialCom.html#af9967e8dc494640b943b3035259279ab" title="shows a succes message on the console" alt="" coords="384,56,557,83"/>
+</map>

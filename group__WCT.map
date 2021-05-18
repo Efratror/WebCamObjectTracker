@@ -1,0 +1,5 @@
+<map id="Webcam tracking software" name="Webcam tracking software">
+<area shape="rect" id="node1" href="$group__tracking.html" title="This is the group contains arduino software." alt="" coords="228,5,395,45"/>
+<area shape="rect" id="node2" title="using Arduino Uno and OpenCV" alt="" coords="5,45,180,70"/>
+<area shape="rect" id="node3" href="$group__processing.html" title="This is the group containing als the image processing parts." alt="" coords="230,69,393,109"/>
+</map>

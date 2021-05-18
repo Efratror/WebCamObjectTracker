@@ -1,0 +1,4 @@
+<map id="Mask" name="Mask">
+<area shape="rect" id="node1" title="Child&#45;classe, applies a mask to the input matrix." alt="" coords="5,248,177,589"/>
+<area shape="rect" id="node2" href="$classPipeLineAction.html" title="Base&#45;class for all OpenCV pipeline actions." alt="" coords="27,5,156,200"/>
+</map>

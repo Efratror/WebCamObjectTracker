@@ -1,0 +1,4 @@
+<map id="Serial Communication" name="Serial Communication">
+<area shape="rect" id="node1" href="$group__processing.html" title="This is the group containing als the image processing parts." alt="" coords="5,5,168,45"/>
+<area shape="rect" id="node2" title="Serial communication with an Arduino Uno." alt="" coords="216,13,364,38"/>
+</map>

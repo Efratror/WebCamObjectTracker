@@ -1,0 +1,4 @@
+<map id="SerialCom::write" name="SerialCom::write">
+<area shape="rect" id="node1" title="Sends a message(command) to the Arduino Uno." alt="" coords="5,5,121,32"/>
+<area shape="rect" id="node2" href="$classSerialCom.html#ab4694d10387475e78b52a33157f5934e" title="shows a error message on the console" alt="" coords="169,5,325,32"/>
+</map>

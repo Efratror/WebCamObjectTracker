@@ -1,0 +1,6 @@
+<map id="PipeLine classes" name="PipeLine classes">
+<area shape="rect" id="node1" href="$group__pipeLineheader.html" title="all header files" alt="" coords="385,5,480,31"/>
+<area shape="rect" id="node2" title="all classes used for the OpenCV pipeLine" alt="" coords="216,31,337,56"/>
+<area shape="rect" id="node4" href="$group__pipeLinecpp.html" title="all C++ files" alt="" coords="393,55,472,80"/>
+<area shape="rect" id="node3" href="$group__processing.html" title="This is the group containing als the image processing parts." alt="" coords="5,23,168,63"/>
+</map>

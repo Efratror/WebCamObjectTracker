@@ -1,0 +1,7 @@
+<map id="SerialCom::publishError" name="SerialCom::publishError">
+<area shape="rect" id="node1" title="shows a error message on the console" alt="" coords="483,31,639,57"/>
+<area shape="rect" id="node2" href="$classSerialCom.html#acf9ed461d5505333d9322d743facc7f8" title="Constructor." alt="" coords="287,5,435,32"/>
+<area shape="rect" id="node5" href="$classSerialCom.html#a21ffd47b01f7337633a46bdb4ff47841" title="Sends a message(command) to the Arduino Uno." alt="" coords="113,56,229,83"/>
+<area shape="rect" id="node3" href="$classSerialCom.html#a386d2a4649e3a00b9b2f6e6cef921bbd" title="Creates a object if there isn&#39;t one already." alt="" coords="104,5,239,32"/>
+<area shape="rect" id="node4" href="$group__main.html#ga51af30a60f9f02777c6396b8247e356f" title="Main function." alt="" coords="5,31,56,57"/>
+</map>
