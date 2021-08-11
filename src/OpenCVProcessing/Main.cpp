@@ -63,6 +63,9 @@ int scale(float input, float rMax, float tMax)
 *    @return int exit-code */
 int main()
 {
+    //Webcam object
+    webCam = Capture(0, cv::CAP_ANY);
+
     //Create pipeline
     actions.push_back(new Blur("Blurred"));
     actions.push_back(new ConvertColorSpace("HSV"));
@@ -84,8 +87,6 @@ int main()
 
     //Create grafic user interface
     g = new GUI(actions);
-    
-    webCam = Capture(0, cv::CAP_ANY);
 
     //Loop until Esc-key pressed
     while (cv::waitKey(33) != 27)
@@ -113,8 +114,8 @@ int main()
             float yInput = (src.rows / static_cast<float>(2)) - c.y;
             float xInput = c.x - (src.cols / static_cast<float>(2));
 
-            //Scale to range of -15° to 15° this because other wise the arduino flips
-            //X(pan) is inverted because of mirrored immage
+            //Scale to range of -15° to 15° this because other wise the arduino flips (movement is to slow)
+            //X(pan) is inverted because of mirrored image
             int yOut = scale(yInput, src.rows / static_cast<float>(2), 15);
             int xOut = -scale(xInput, src.cols / static_cast<float>(2), 15);
 

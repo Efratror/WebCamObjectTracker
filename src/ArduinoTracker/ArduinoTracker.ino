@@ -4,7 +4,7 @@
  *  @author		Max Avontuur
  *  @version	1.0
  *  @date		24-4-2021
- *	@ingroup mainUno
+ *	@ingroup	mainUno
  */
 #include "CommandParser.h"
 #include "PanTiltController.h"
